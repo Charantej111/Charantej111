@@ -88,7 +88,7 @@ Brings coding activity from LeetCode, Codeforces, CodeChef, HackerRank, Geeksfor
 <td width="50%" valign="top">
 
 <a href="https://github.com/Charantej111/InterviewPilot">
-  <img src="https://raw.githubusercontent.com/Charantej111/Charantej111/main/assets/interviewpilot-card.svg" width="100%" alt="InterviewPilot project illustration" />
+  <img src="https://raw.githubusercontent.com/Charantej111/Charantej111/main/assets/interviewpilot-project.svg?v=2" width="100%" alt="InterviewPilot project illustration" />
 </a>
 
 ### [InterviewPilot ↗](https://github.com/Charantej111/InterviewPilot)
