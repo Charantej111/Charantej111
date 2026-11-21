@@ -6,7 +6,7 @@ I work at the intersection of product, design, technology, and execution. I enjo
 
 I'm a B.Tech graduate in Artificial Intelligence & Machine Learning, currently exploring **entry-level Product Management, Product Analyst, Product Operations, and Project Coordination opportunities in the UAE**.
 
-[LinkedIn](https://www.linkedin.com/) · [Portfolio](https://github.com/Charantej111/charan-pm-portfolio) · [GitHub](https://github.com/Charantej111)
+[Product portfolio repository](https://github.com/Charantej111/charan-pm-portfolio) · [GitHub](https://github.com/Charantej111)
 
 ---
 
@@ -41,10 +41,10 @@ A product concept for consolidating feedback from app stores and structured file
 
 My work spans product concept, UX, implementation, data workflows, AI capabilities, validation, and iteration.
 
-### [CareerOS](https://github.com/Charantej111)
+### CareerOS
 **Career planning and personal progress tracker**
 
-A product concept focused on helping students and professionals organize goals, roadmaps, projects, applications, and skill development. The CareerOS source repository is separate from this profile repository and will be linked here once its exact public URL is confirmed.
+A product focused on helping students and professionals organize goals, roadmaps, projects, applications, and skill development. You confirmed that its source is in a separate public repository. I have not linked it yet because the exact repository URL did not appear in the repositories accessible to this GitHub connection.
 
 ### ApplyQ
 **Job discovery and quick-apply experience for college students**
@@ -93,9 +93,7 @@ GitHub · Docker · Testing · Documentation · Cross-functional coordination
 
 I'm open to conversations about **Product Management, Product Analyst, Product Operations, Project Coordinator, and Associate Product Manager** opportunities in the UAE.
 
-- LinkedIn: add your preferred profile URL
-- Portfolio: add your live portfolio URL
-- Email: add your professional contact email
+You can reach me through my LinkedIn profile or GitHub. Add a direct LinkedIn URL and professional email here before sharing the profile with recruiters.
 
 ---
 
