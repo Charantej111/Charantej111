@@ -185,8 +185,6 @@ A product for students and professionals with a daily planner, career roadmaps, 
 
 - **IBM AI Product Manager Professional Certificate** · IBM / Coursera
 - **Google Project Management Professional Certificate** · Google / Coursera
-- **NPTEL Elite Silver Certification** · Internet of Things
-- **TCS Career Edge** · Career readiness programme
 
 ## Recognition and workshops
 
