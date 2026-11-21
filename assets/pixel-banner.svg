@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="t d">
+<title id="t">Charan Teja, product and technology</title><desc id="d">A purple pixel-art night landscape with a moon, distant city, and the words Product, UX, Technology and Operations.</desc>
+<rect width="1400" height="360" fill="#100d18"/>
+<path d="M0 0H1400V360H0Z" fill="#171020"/>
+<path d="M0 234L150 201L260 222L360 180L490 216L610 177L760 218L880 175L1020 211L1170 173L1400 220V360H0Z" fill="#241533"/>
+<path d="M0 270L130 232L270 261L420 220L590 257L740 226L900 260L1060 220L1220 253L1400 223V360H0Z" fill="#321d47"/>
+<path d="M0 300L150 270L295 294L460 255L620 289L780 254L940 290L1100 256L1260 287L1400 265V360H0Z" fill="#4b2b65"/>
+<g fill="#6f438b" opacity=".8">
+<rect x="44" y="222" width="24" height="54"/><rect x="76" y="204" width="38" height="72"/><rect x="123" y="230" width="20" height="47"/>
+<rect x="250" y="214" width="32" height="70"/><rect x="292" y="229" width="23" height="55"/><rect x="334" y="194" width="30" height="92"/>
+<rect x="398" y="222" width="45" height="70"/><rect x="454" y="206" width="22" height="84"/><rect x="490" y="230" width="34" height="60"/>
+<rect x="1050" y="218" width="28" height="66"/><rect x="1088" y="197" width="43" height="89"/><rect x="1142" y="225" width="30" height="62"/>
+<rect x="1184" y="205" width="22" height="80"/><rect x="1220" y="227" width="40" height="62"/><rect x="1280" y="198" width="29" height="91"/>
+</g>
+<g fill="#cda7ef" opacity=".9">
+<rect x="54" y="237" width="5" height="5"/><rect x="88" y="220" width="6" height="6"/><rect x="102" y="244" width="5" height="5"/><rect x="260" y="230" width="5" height="5"/><rect x="346" y="211" width="6" height="6"/><rect x="410" y="237" width="6" height="6"/><rect x="465" y="223" width="5" height="5"/>
+<rect x="1060" y="232" width="6" height="6"/><rect x="1100" y="216" width="5" height="5"/><rect x="1151" y="242" width="5" height="5"/><rect x="1192" y="221" width="6" height="6"/><rect x="1290" y="215" width="5" height="5"/>
+</g>
+<g fill="#f3d7ff">
+<rect x="1040" y="62" width="8" height="8"/><rect x="1056" y="46" width="8" height="8"/><rect x="1072" y="38" width="8" height="8"/><rect x="1088" y="30" width="8" height="8"/><rect x="1104" y="30" width="8" height="8"/><rect x="1120" y="38" width="8" height="8"/><rect x="1136" y="46" width="8" height="8"/><rect x="1152" y="62" width="8" height="8"/><rect x="1160" y="78" width="8" height="8"/><rect x="1168" y="94" width="8" height="8"/><rect x="1168" y="110" width="8" height="8"/><rect x="1160" y="126" width="8" height="8"/><rect x="1144" y="142" width="8" height="8"/><rect x="1128" y="150" width="8" height="8"/><rect x="1112" y="158" width="8" height="8"/><rect x="1096" y="158" width="8" height="8"/><rect x="1080" y="150" width="8" height="8"/><rect x="1064" y="142" width="8" height="8"/><rect x="1048" y="126" width="8" height="8"/><rect x="1040" y="110" width="8" height="8"/><rect x="1032" y="94" width="8" height="8"/><rect x="1032" y="78" width="8" height="8"/>
+</g>
+<g fill="#100d18"><rect x="1104" y="62" width="8" height="8"/><rect x="1120" y="78" width="8" height="8"/><rect x="1128" y="94" width="8" height="8"/><rect x="1128" y="110" width="8" height="8"/><rect x="1112" y="126" width="8" height="8"/><rect x="1096" y="134" width="8" height="8"/><rect x="1080" y="126" width="8" height="8"/><rect x="1064" y="110" width="8" height="8"/></g>
+<g fill="#d5b7ef">
+<rect x="930" y="49" width="5" height="5"/><rect x="973" y="93" width="5" height="5"/><rect x="1238" y="60" width="5" height="5"/><rect x="1270" y="115" width="5" height="5"/><rect x="880" y="120" width="5" height="5"/><rect x="1000" y="159" width="5" height="5"/><rect x="1300" y="164" width="5" height="5"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="92" y="92" fill="#d6b4f2" font-size="14" letter-spacing="4">HELLO, I'M</text>
+<text x="88" y="158" fill="#fff7ff" font-size="55" font-weight="700" letter-spacing="1">CHARAN TEJA</text>
+<text x="92" y="199" fill="#d6b4f2" font-size="17" letter-spacing="2.5">PRODUCT  /  UX  /  TECHNOLOGY</text>
+<rect x="92" y="222" width="122" height="31" rx="4" fill="#583777" stroke="#cda7ef"/>
+<text x="153" y="242" text-anchor="middle" fill="#fff" font-size="11">PRODUCT THINKING</text>
+<rect x="224" y="222" width="78" height="31" rx="4" fill="#583777" stroke="#cda7ef"/>
+<text x="263" y="242" text-anchor="middle" fill="#fff" font-size="11">UX</text>
+<rect x="312" y="222" width="111" height="31" rx="4" fill="#583777" stroke="#cda7ef"/>
+<text x="367" y="242" text-anchor="middle" fill="#fff" font-size="11">AI PRODUCTS</text>
+<rect x="433" y="222" width="111" height="31" rx="4" fill="#583777" stroke="#cda7ef"/>
+<text x="488" y="242" text-anchor="middle" fill="#fff" font-size="11">OPERATIONS</text>
+<text x="92" y="306" fill="#b69cc9" font-size="11" letter-spacing="3">BUILDING THINGS PEOPLE FIND USEFUL</text>
+</g>
+<path d="M64 20H1336V340H64Z" fill="none" stroke="#76508f" stroke-opacity=".6"/>
+</svg>
