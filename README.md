@@ -89,8 +89,6 @@ Aditya University · 2022 to 2026 · 75%, First Class.
 
 ---
 
----
-
 I’m interested in meeting people building useful products and teams that care about how they get made.
 
 [Portfolio](https://charan.ofzen.in/) · [LinkedIn](https://www.linkedin.com/in/charan-tej-neelam-bb0a9a302) · [Email](mailto:charantej111n@gmail.com)
