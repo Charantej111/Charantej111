@@ -89,18 +89,6 @@ Aditya University · 2022 to 2026 · 75%, First Class.
 
 ---
 
-## GitHub activity
-
-**166 contributions** on my profile heatmap when last checked.
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Charantej111&hide_border=true&background=0D1117&ring=9CA3AF&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=9CA3AF&currStreakNum=E5E7EB&sideNums=F3F4F6&dates=777F8C" height="145" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charantej111&bg_color=0d1117&color=9ca3af&line=c9d1d9&point=e5e7eb&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
-</p>
-
 ---
 
 I’m interested in meeting people building useful products and teams that care about how they get made.
