@@ -124,17 +124,20 @@ Brings app reviews and files such as CSV, Excel and JSON into one workflow to he
 
 <img src="https://raw.githubusercontent.com/Charantej111/Charantej111/main/assets/careeros-card.svg" width="100%" alt="CareerOS project illustration" />
 
-### CareerOS
+### [CareerOS ↗](https://career-os-tracker.vercel.app/)
 
-**Career planning and job tracking workspace**
+**A role-agnostic career operating system**
 
-A product for students and professionals with a daily planner, career roadmaps, projects, job tracking and skill development.
+A personal execution workspace that adapts to a user's career goals. It brings together a job application pipeline, daily planner, skills, roadmaps, projects, portfolio goals, learning resources and AI-assisted career workflows.
 
 **Product work**
 - Designed and shipped the MVP to **20 beta users**.
-- Built the daily planner, job tracker and AI interview preparation experience.
-- Built an AI interview prototype using resume, job description, role and company context.
+- Built the job search experience with a 9-stage application pipeline, Kanban and list views, interview preparation, follow-ups and resume storage.
+- Shaped the daily planner, skills, milestone roadmap, project board, portfolio goals and weekly review modules.
+- Built AI-assisted workflows for workspace generation, job description analysis, interview preparation and job follow-ups.
 - Owned the build end-to-end across product design, frontend, backend, database, authentication and deployment.
+
+<p><a href="https://career-os-tracker.vercel.app/">Open live demo ↗</a> · <a href="https://github.com/Charantej111/PM-tracker">Source repository (private)</a></p>
 
 </td>
 </tr>
