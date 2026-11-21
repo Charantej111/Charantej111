@@ -8,9 +8,9 @@
 
 **Product · UX · Technology · Operations**
 
-Artificial Intelligence & Machine Learning graduate who enjoys turning user problems into useful digital products.
+Artificial Intelligence & Machine Learning graduate building products across marketplace, EdTech and AI.
 
-[Portfolio](https://charan.ofzen.in/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/charan-tej-neelam-bb0a9a302) &nbsp;·&nbsp; [Email](mailto:charantej111n@gmail.com)
+[Portfolio](https://charan.ofzen.in/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/charan-tej-neelam-bb0a9a302) &nbsp;·&nbsp; [Email](mailto:career.charantej@gmail.com)
 
 </div>
 
@@ -18,17 +18,17 @@ Artificial Intelligence & Machine Learning graduate who enjoys turning user prob
 
 ## About me
 
-I'm a B.Tech graduate from **Aditya University**. I started with technology and design, then moved closer to product by working on real products, understanding user needs, shaping experiences and taking ideas through implementation and iteration.
+I'm a B.Tech graduate from **Aditya University** with **1.5+ years of hands-on product and project experience**. I started with technology and design, then moved closer to product by researching user problems, shaping product experiences, defining requirements and working with teams to take ideas from concept to launch.
 
-I like working across the space between users, business goals and engineering. My experience includes product design, feature definition, frontend and backend implementation, testing, product support and operations.
+My work has covered **marketplace, education technology and AI products**. I enjoy connecting user needs, business constraints and engineering execution, and I stay close to the product after launch through feedback, validation and iteration.
 
-I'm currently exploring **Product Management, Associate Product Manager, Product Analyst, Product Operations and Project Coordinator** opportunities in the UAE. Open to Dubai, Abu Dhabi and immediate joining.
+I'm currently exploring **Associate Product Manager, Product Management, Product Analyst, Product Operations and Project Coordinator** opportunities in the UAE. Based in Dubai and available to join immediately.
 
 ---
 
-## Tech stack
+## Tech stack and tools
 
-**Product and design**
+**Product, research and design**
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,framer,webflow,notion&theme=dark" alt="Figma, Framer, Webflow and Notion" />
@@ -49,6 +49,7 @@ I'm currently exploring **Product Management, Associate Product Manager, Product
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-20232A?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-20232A?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Jira-20232A?style=flat-square&logo=jira&logoColor=2684FF" alt="Jira" />
   <img src="https://img.shields.io/badge/Canva-20232A?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
@@ -66,23 +67,16 @@ I'm currently exploring **Product Management, Associate Product Manager, Product
 
 ### [CodeTracker ↗](https://github.com/Charantej111/Codetracker)
 
-**Coding progress for students and institutions**
+**Competitive coding analytics for students and institutions**
 
-Brings coding activity from LeetCode, Codeforces, CodeChef, HackerRank, GeeksforGeeks and AtCoder into one place. Students can follow progress while faculty and placement teams get a consolidated view of activity.
+Unifies coding activity from LeetCode, Codeforces, CodeChef, HackerRank, GeeksforGeeks and AtCoder. Students can track progress while faculty and placement teams can review performance across a cohort.
 
-<sub>Product thinking · UX · Analytics · Implementation</sub>
+**Product work**
+- Gathered requirements from **70+ students and 5+ placement staff**.
+- Helped define dashboards, rankings, performance tracking and placement workflows.
+- Worked across product thinking, UX, implementation, validation and go-to-market.
 
-<details>
-<summary>What I worked on</summary>
-
-- Product workflows for students, faculty and placement teams.
-- Consolidated coding profiles, progress views and leaderboards.
-- UX, frontend implementation, validation and iteration.
-- Balancing external platform data with a usable product experience.
-
-</details>
-
-<p><a href="https://github.com/Charantej111/Codetracker">View repository ↗</a></p>
+**Outcome:** Live at Aditya University, with **8,000+ active student users**.
 
 </td>
 <td width="50%" valign="top">
@@ -93,23 +87,15 @@ Brings coding activity from LeetCode, Codeforces, CodeChef, HackerRank, Geeksfor
 
 ### [InterviewPilot ↗](https://github.com/Charantej111/InterviewPilot)
 
-**Interview practice based on the candidate, not generic prompts**
+**Interview practice shaped around the candidate**
 
-Uses a candidate's resume and target role to shape interview questions, follow-ups, structured answer evaluation and feedback.
+Uses a candidate's resume and target role to create relevant interview questions, adaptive follow-ups, structured answer evaluation and feedback.
 
-<sub>AI product · UX · Interview workflows · Evaluation</sub>
-
-<details>
-<summary>What I worked on</summary>
-
-- Product definition and interview setup flow.
-- Resume and job-description analysis.
-- Interview generation, adaptive follow-ups and evaluation workflows.
-- Frontend, backend integration, AI workflows and testing.
-
-</details>
-
-<p><a href="https://github.com/Charantej111/InterviewPilot">View repository ↗</a></p>
+**Product work**
+- Defined the interview setup and candidate workflow.
+- Worked on resume and job-description analysis.
+- Shaped interview generation, adaptive follow-ups and evaluation.
+- Contributed across UX, frontend, backend integration, AI workflows and testing.
 
 </td>
 </tr>
@@ -122,24 +108,16 @@ Uses a candidate's resume and target role to shape interview questions, follow-u
 
 ### [Trace ↗](https://github.com/Charantej111/Trace)
 
-**Customer feedback that leads to product decisions**
+**Customer feedback connected to product decisions**
 
-Brings together app reviews and files such as CSV, Excel and JSON to help identify recurring problems, understand supporting evidence and connect insights to prioritization.
+Brings app reviews and files such as CSV, Excel and JSON into one workflow to help product teams identify recurring issues, understand evidence and prioritize opportunities.
 
-<sub>Product discovery · Feedback analysis · Prioritization</sub>
-
-<details>
-<summary>What I worked on</summary>
-
-- Feedback ingestion and normalization workflows.
+**Product work**
+- Feedback ingestion and normalization.
 - Problem grouping and emerging issue analysis.
 - Evidence-backed opportunity scoring.
 - Product decision records and roadmap traceability.
 - Product concept, UX, implementation and validation.
-
-</details>
-
-<p><a href="https://github.com/Charantej111/Trace">View repository ↗</a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -148,51 +126,91 @@ Brings together app reviews and files such as CSV, Excel and JSON to help identi
 
 ### CareerOS
 
-**A workspace for career progress**
+**Career planning and job tracking workspace**
 
-A career planning product for students and professionals, bringing together a daily planner, roadmaps, projects, job tracking and skill development.
+A product for students and professionals with a daily planner, career roadmaps, projects, job tracking and skill development.
 
-<sub>Product design · Full-stack build · 0 to 1</sub>
-
-<details>
-<summary>What I worked on</summary>
-
-I built CareerOS end-to-end, including:
-- Product concept and user experience.
-- Frontend and backend implementation.
-- Database and authentication.
-- Deployment and iteration.
-
-</details>
+**Product work**
+- Designed and shipped the MVP to **20 beta users**.
+- Built the daily planner, job tracker and AI interview preparation experience.
+- Built an AI interview prototype using resume, job description, role and company context.
+- Owned the build end-to-end across product design, frontend, backend, database, authentication and deployment.
 
 </td>
 </tr>
 </table>
 
-### Other work
+### Other product work
 
-**Delizoo** · Food delivery product. Contributed across product design, web experience and launch-related operations, working with the wider team.
+**Delizoo** · Hyperlocal food delivery marketplace. Co-founded and worked across product, UX, operations and launch. Helped shape four experiences: customer app, restaurant app, admin panel and rider app.
 
-**ApplyQ** · Job discovery and quick-apply experience for college students, covering on-campus placement opportunities and off-campus jobs. The source repository is private.
+**ApplyQ** · Job discovery and quick-apply experience for college students, combining on-campus placement opportunities and off-campus jobs. The source repository is private.
 
 ---
 
-## Experience
+## Professional experience
 
-| Role | Organization | Period |
-|---|---|---|
-| Operations Lead | Ofzen | 2025 onwards |
-| Product Support & Validation Intern | Aditya University | May 2025 – June 2025 |
-| AI/ML Intern | Nxt24 Tech Solutions | June 2024 – August 2024 |
+### Co-Founder, Product Strategy · Ofzen
+*March 2025 – Present*
 
-## Education and highlights
+- Led product strategy across initiatives including CodeTracker and Delizoo.
+- Conducted user research to understand market gaps and validate product-market fit before development.
+- Wrote product specifications, prioritized roadmaps and coordinated execution across product work.
+- Built the CodeTracker go-to-market plan and supported expansion through university partnerships.
+
+### Co-Founder, Product & Operations · Delizoo
+*June 2026 – Present · Hyperlocal food delivery marketplace*
+
+- Helped research **40+ restaurant partners and 30+ riders** to understand payouts, trust, delivery operations and marketplace economics.
+- Planned and shipped the MVP in **15 weeks** across customer, restaurant, admin and rider experiences, using Figma prototyping and user testing.
+- Helped design a **5% commission model** as a lower-cost alternative to incumbent platform commissions.
+- Supported onboarding of **40+ kitchen partners and 40+ riders**.
+- Reached **2,000+ downloads, 1,600+ customer profiles and 300+ orders** after launch.
+
+### Product Support & Validation Intern · Aditya University
+*May 2025 – June 2025*
+
+- Supported product validation, user testing and feedback collection.
+- Worked around product support and usability checks to identify issues and improve the user experience.
+
+### AI/ML Intern · Nxt24 Tech Solutions
+*June 2024 – August 2024*
+
+- Worked on AI and machine learning projects.
+- Built familiarity with model development, implementation and applied ML workflows.
+
+---
+
+## Certifications
+
+- **IBM AI Product Manager Professional Certificate** · IBM / Coursera
+- **Google Project Management Professional Certificate** · Google / Coursera
+- **NPTEL Elite Silver Certification** · Internet of Things
+- **TCS Career Edge** · Career readiness programme
+
+## Recognition and workshops
+
+- **Bajaj HackRx 6.0** · Finalist
+- **IIT Bhubaneswar** · Web Development Workshop
+- **IoT Workshop** · Technical workshop participation
+
+## Education
 
 **B.Tech, Artificial Intelligence & Machine Learning**  
-Aditya University · 2022–2026 · 75%, First Class
+Aditya University · 2022–2026 · **75% · First Class**
 
-- Bajaj HackRx 6.0 finalist.
-- NPTEL Elite Silver Certification in Internet of Things.
-- TCS Career Edge certification.
+## Skills
+
+| Product management | Design and research | Execution and analytics |
+|---|---|---|
+| Product strategy and discovery | User flows and journey mapping | Agile and Scrum |
+| User research and market research | Wireframing and prototyping | Sprint planning |
+| Product specifications and PRDs | Figma and interaction design | Stakeholder communication |
+| Roadmap and backlog prioritization | Usability testing | Cross-functional coordination |
+| A/B testing and experimentation | Iterative feedback | Power BI and Tableau |
+| AI/LLM product applications | Prompt engineering | Product validation and testing |
+
+**Languages:** English (Fluent) · Telugu (Native) · Hindi (Intermediate)
 
 ---
 
@@ -201,7 +219,9 @@ Aditya University · 2022–2026 · 75%, First Class
 <p>
   <a href="https://charan.ofzen.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-5C3979?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/charan-tej-neelam-bb0a9a302"><img src="https://img.shields.io/badge/LinkedIn-Connect-5C3979?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:charantej111n@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-5C3979?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:career.charantej@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-5C3979?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<sub>Interested in working with thoughtful teams on useful products. Based in the UAE and open to product and project opportunities.</sub>
+**Dubai, UAE** · Available immediately
+
+<sub>Project contributions are described by area of involvement. Some products were built collaboratively; CareerOS was an end-to-end build.</sub>
