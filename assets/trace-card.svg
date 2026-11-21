@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="260" viewBox="0 0 620 260" role="img" aria-labelledby="t"><title id="t">Trace product artwork</title>
+<rect width="620" height="260" rx="12" fill="#171020"/><path d="M0 203L102 170L210 190L312 149L420 187L528 152L620 186V260H0Z" fill="#2b1b3b"/>
+<rect x="100" y="36" width="418" height="184" rx="8" fill="#0e0b15" stroke="#b58ad7" stroke-width="2"/><rect x="100" y="36" width="418" height="27" rx="8" fill="#39234d"/><circle cx="118" cy="50" r="4" fill="#f0d6ff"/><circle cx="132" cy="50" r="4" fill="#caa7e8"/><text x="154" y="53" fill="#eadbf5" font-family="Arial" font-size="10" letter-spacing="2">TRACE / FEEDBACK INBOX</text>
+<g><rect x="122" y="83" width="170" height="34" rx="5" fill="#251833" stroke="#684b82"/><circle cx="141" cy="100" r="6" fill="#cda7ef"/><rect x="156" y="94" width="97" height="5" rx="2" fill="#dfc7f2"/><rect x="156" y="104" width="120" height="4" rx="2" fill="#76558e"/>
+<rect x="122" y="127" width="170" height="34" rx="5" fill="#251833" stroke="#684b82"/><circle cx="141" cy="144" r="6" fill="#f3d7ff"/><rect x="156" y="138" width="83" height="5" rx="2" fill="#dfc7f2"/><rect x="156" y="148" width="112" height="4" rx="2" fill="#76558e"/>
+<rect x="122" y="171" width="170" height="34" rx="5" fill="#251833" stroke="#684b82"/><circle cx="141" cy="188" r="6" fill="#a37ac2"/><rect x="156" y="182" width="107" height="5" rx="2" fill="#dfc7f2"/><rect x="156" y="192" width="88" height="4" rx="2" fill="#76558e"/></g>
+<path d="M311 146H343M337 140L343 146L337 152" stroke="#d9b9f1" fill="none" stroke-width="2"/>
+<rect x="355" y="83" width="139" height="122" rx="6" fill="#251833" stroke="#684b82"/>
+<text x="369" y="101" fill="#c9aadf" font-family="Arial" font-size="9">TOP OPPORTUNITY</text>
+<text x="369" y="125" fill="#fff1ff" font-family="Arial" font-size="13" font-weight="700">Checkout friction</text>
+<rect x="369" y="139" width="109" height="7" rx="3" fill="#49325f"/><rect x="369" y="139" width="82" height="7" rx="3" fill="#c6a0e4"/>
+<text x="369" y="165" fill="#c9aadf" font-family="Arial" font-size="9">EVIDENCE CLUSTER</text><path d="M370 180L389 171L405 181L425 168L445 180L465 168" fill="none" stroke="#d9b9f1" stroke-width="2"/>
+<g fill="#d7b5ef"><rect x="45" y="44" width="7" height="7"/><rect x="70" y="78" width="5" height="5"/><rect x="540" y="49" width="7" height="7"/><rect x="565" y="93" width="5" height="5"/></g>
+</svg>
