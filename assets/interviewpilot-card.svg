@@ -9,6 +9,6 @@
 <text x="220" y="178" text-anchor="middle" fill="#e8d8f4" font-family="Arial" font-size="10">VOICE INTERVIEW</text>
 <g><rect x="311" y="82" width="158" height="26" rx="4" fill="#39234d"/><text x="324" y="99" fill="#f1e7fa" font-family="Arial" font-size="10">ROLE ALIGNMENT</text><rect x="311" y="116" width="158" height="8" rx="4" fill="#49325f"/><rect x="311" y="116" width="119" height="8" rx="4" fill="#c6a0e4"/>
 <text x="311" y="145" fill="#bfa3d5" font-family="Arial" font-size="9">ANSWER STRUCTURE</text><rect x="311" y="154" width="158" height="8" rx="4" fill="#49325f"/><rect x="311" y="154" width="105" height="8" rx="4" fill="#c6a0e4"/>
-<text x="311" y="183" fill="#bfa3d5" font-family="Arial" font-size="9">EVIDENCE & CLARITY</text><rect x="311" y="191" width="158" height="5" rx="3" fill="#49325f"/></g>
+<text x="311" y="183" fill="#bfa3d5" font-family="Arial" font-size="9">EVIDENCE &amp; CLARITY</text><rect x="311" y="191" width="158" height="5" rx="3" fill="#49325f"/></g>
 <g fill="#d7b5ef"><rect x="76" y="40" width="8" height="8"/><rect x="101" y="75" width="5" height="5"/><rect x="515" y="54" width="7" height="7"/><rect x="547" y="97" width="5" height="5"/></g>
 </svg>
