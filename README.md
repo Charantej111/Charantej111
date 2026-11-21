@@ -1,98 +1,104 @@
 # Hi, I'm Charan Teja 👋
 
-**Product-focused builder | Product Management · Product Analytics · UX · AI Products**
+**Product Management | Product Analytics | Product Operations | UX | AI Products**
 
-I work at the intersection of product, design, technology, and execution. I enjoy understanding user problems, shaping practical solutions, and carrying ideas from early concepts through design, development, validation, and iteration.
+I enjoy turning user problems into clear product experiences. My work sits across product thinking, UX, technology, and execution: understanding what users need, shaping workflows, collaborating with teams, building solutions, validating them, and improving what ships.
 
-I'm a B.Tech graduate in Artificial Intelligence & Machine Learning, currently exploring **entry-level Product Management, Product Analyst, Product Operations, and Project Coordination opportunities in the UAE**.
+I'm a B.Tech graduate in **Artificial Intelligence & Machine Learning** from **Aditya University**. I'm currently looking for **entry-level Product Management, Associate Product Manager, Product Analyst, Product Operations, and Project Coordinator** opportunities in the UAE. I'm open to Dubai, Abu Dhabi, and other UAE locations, and available to join immediately.
 
-[Product portfolio repository](https://github.com/Charantej111/charan-pm-portfolio) · [GitHub](https://github.com/Charantej111)
+[Product portfolio repository](https://github.com/Charantej111/charan-pm-portfolio) · [GitHub projects](https://github.com/Charantej111?tab=repositories)
 
 ---
 
-## What I bring
-
-- **Product thinking:** problem framing, user workflows, feature definition, prioritization, product documentation, and iteration.
-- **UX and design:** user flows, wireframing, prototyping, interaction design, usability thinking, and Figma.
-- **Technical fluency:** React, TypeScript, JavaScript, Tailwind CSS, Python, Supabase, APIs, and AI-enabled workflows.
-- **Execution:** cross-functional coordination, testing, release support, feedback analysis, and continuous improvement.
-- **Analytics:** structured data handling, dashboards, product metrics, and tools such as Power BI and Tableau.
-
-## Selected product work
+## Product work
 
 ### [CodeTracker](https://github.com/Charantej111/Codetracker)
 **Unified coding progress and placement analytics**
 
-A platform that brings competitive programming activity from multiple coding platforms into a consolidated experience for students, faculty, and placement teams.
+CodeTracker brings competitive programming activity from platforms such as LeetCode, Codeforces, CodeChef, HackerRank, GeeksforGeeks, and AtCoder into one experience for students, faculty, and placement teams.
 
-My work spans product thinking, UX, implementation, validation, and iteration across the product.
+**Product areas:** multi-platform profile aggregation, student progress, leaderboards, institutional dashboards, and placement-readiness signals.
+
+**My contribution:** cross-functional work across product thinking, UX, implementation, validation, and iteration. My ownership varied by feature and stage.
 
 ### [InterviewPilot](https://github.com/Charantej111/InterviewPilot)
-**Adaptive AI mock interview experience**
+**Role-specific AI interview preparation**
 
-An interview preparation product that uses a candidate's resume and target role to shape interview questions, follow-ups, structured answer evaluation, and feedback.
+InterviewPilot uses a candidate's resume and target role to create focused interview practice, adaptive follow-up questions, structured answer evaluation, and actionable feedback.
 
-My work spans product definition, UX, frontend and backend integration, AI workflow design, testing, and iteration.
+**Product areas:** resume and job-description analysis, interview planning, conversational interview flow, answer evaluation, follow-up logic, and performance reporting.
+
+**My contribution:** product definition, UX, frontend and backend integration, AI workflow design, testing, and iteration.
 
 ### [Trace](https://github.com/Charantej111/Trace)
 **Customer feedback and product decision intelligence**
 
-A product concept for consolidating feedback from app stores and structured files, identifying recurring problems, and connecting evidence to prioritization and roadmap decisions.
+Trace brings feedback from app stores and structured files such as CSV, Excel, and JSON into a workflow for identifying recurring problems and connecting customer evidence to product opportunities.
 
-My work spans product concept, UX, implementation, data workflows, AI capabilities, validation, and iteration.
+**Product areas:** feedback ingestion, normalization, issue clustering, explainable prioritization, decision records, and roadmap tracking.
+
+**My contribution:** product concept, UX, implementation, data workflows, AI capabilities, validation, and iteration.
 
 ### CareerOS
 **Career planning and personal progress tracker**
 
-A product focused on helping students and professionals organize goals, roadmaps, projects, applications, and skill development.
+A product designed to help students and professionals organize daily plans, career roadmaps, projects, job applications, and skill development in one place.
+
+**My contribution:** worked across product design, frontend, backend, database, authentication, and deployment.
 
 ### ApplyQ
 **Job discovery and quick-apply experience for college students**
 
-A mobile product concept focused on helping students discover on-campus and off-campus opportunities and reduce friction in the application process. The source repository is private, so this project is represented as product work rather than a public code link.
+A mobile product concept that brings on-campus placement opportunities and off-campus jobs into a student-focused discovery and application experience.
+
+The source repository is private, so this section describes the product without exposing private code.
 
 ### Delizoo
 **Food delivery product**
 
-Worked across product design, web experience, operational coordination, and launch-related execution. Contributions should be understood as cross-functional work with ownership varying by feature and team involvement.
+Worked across product design, web experience, and operational coordination, including launch-related execution and customer-facing improvements. Contributions varied across features and collaboration with the wider team.
 
 ---
 
-## Tools and technologies
+## How I work
 
-**Product & Design**  
-Product discovery · Requirements · User flows · Wireframing · Prototyping · Figma · Framer · Webflow
+- **Understand the problem:** clarify user needs, pain points, context, and desired outcomes.
+- **Shape the solution:** map user journeys, define workflows, document requirements, and identify trade-offs.
+- **Prioritize and execute:** break work into manageable tasks, coordinate with collaborators, and keep delivery moving.
+- **Validate and improve:** test workflows, review feedback, identify friction, and iterate based on evidence.
 
-**Development**  
-React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · Python
+## Skills and tools
 
-**Data & AI**  
-Supabase · SQL · Power BI · Tableau · Data analysis · AI product workflows · API integration
+| Area | Skills and tools |
+|---|---|
+| Product | Product discovery, requirements, user stories, prioritization, roadmap thinking, product documentation |
+| UX | User flows, wireframing, prototyping, interaction design, usability thinking, Figma |
+| Technical | React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Python, Supabase, API integration |
+| Data & AI | SQL, Power BI, Tableau, data analysis, AI product workflows |
+| Delivery | GitHub, Docker, testing, documentation, cross-functional coordination |
 
-**Delivery & Collaboration**  
-GitHub · Docker · Testing · Documentation · Cross-functional coordination
+## Experience
 
----
+- **Operations Lead, Ofzen**: contributing across product, operations, coordination, and delivery.
+- **Product Support & Validation Intern, Aditya University**: May 2025 to June 2025.
+- **AI/ML Intern, Nxt24 Tech Solutions**: June 2024 to August 2024.
 
-## Experience and highlights
+## Education and highlights
 
-- Operations Lead at Ofzen, contributing across product, operations, and delivery.
-- Product Support & Validation Intern at Aditya University.
-- AI/ML Intern at Nxt24 Tech Solutions.
-- Finalist, Bajaj HackRx 6.0.
-- NPTEL Elite Silver Certification in Internet of Things.
+- **B.Tech, Artificial Intelligence & Machine Learning**, Aditya University | 2022 to 2026 | 75%, First Class.
+- **Bajaj HackRx 6.0**, Finalist.
+- **NPTEL Elite Silver**, Internet of Things.
+- **TCS Career Edge**, certification.
 
 ## Currently focused on
 
-- Building stronger product management foundations.
-- Practicing product case studies, prioritization, metrics, and stakeholder communication.
-- Exploring product and project opportunities across Dubai, Abu Dhabi, and the wider UAE.
-- Continuing to build and improve practical products.
-
-## Let's connect
-
-I'm open to conversations about **Product Management, Product Analyst, Product Operations, Project Coordinator, and Associate Product Manager** opportunities in the UAE.
+- Strengthening product management fundamentals through practical product work.
+- Improving skills in product metrics, prioritization, stakeholder communication, and product case studies.
+- Building products that connect customer problems with useful, measurable outcomes.
+- Exploring product and project opportunities across the UAE.
 
 ---
 
-<sub>Profile note: Project contributions are described at a cross-functional level where individual and team ownership may differ. Metrics are included only when they can be validated against current product records.</sub>
+I'm interested in connecting with people working in product management, product analytics, product operations, UX, and technology.
+
+<sub>Contribution note: I have worked across multiple parts of these products. The descriptions above reflect cross-functional involvement and do not imply sole ownership of every feature or technical system.</sub>
