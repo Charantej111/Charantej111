@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="260" viewBox="0 0 620 260" role="img" aria-labelledby="t"><title id="t">CodeTracker project artwork</title>
+<rect width="620" height="260" rx="12" fill="#171020"/><path d="M0 190L100 155L210 184L310 139L420 176L520 145L620 174V260H0Z" fill="#2b1b3b"/>
+<g fill="#573778"><rect x="35" y="143" width="22" height="45"/><rect x="65" y="124" width="31" height="64"/><rect x="105" y="148" width="22" height="41"/><rect x="492" y="136" width="25" height="54"/><rect x="526" y="116" width="34" height="74"/><rect x="568" y="144" width="24" height="46"/></g>
+<rect x="145" y="37" width="335" height="179" rx="8" fill="#0e0b15" stroke="#b58ad7" stroke-width="2"/>
+<rect x="145" y="37" width="335" height="26" rx="8" fill="#39234d"/><circle cx="162" cy="50" r="4" fill="#f0d6ff"/><circle cx="176" cy="50" r="4" fill="#caa7e8"/><circle cx="190" cy="50" r="4" fill="#8e6bad"/>
+<text x="215" y="53" fill="#e9d8f5" font-family="Arial" font-size="10" letter-spacing="2">CODETRACKER / CAMPUS</text>
+<rect x="164" y="80" width="93" height="53" rx="5" fill="#2e1f40" stroke="#775399"/><text x="177" y="99" fill="#c9acd9" font-family="Arial" font-size="9">TOTAL SOLVED</text><text x="177" y="121" fill="#fff" font-family="Arial" font-size="20" font-weight="700">1,284</text>
+<rect x="267" y="80" width="93" height="53" rx="5" fill="#2e1f40" stroke="#775399"/><text x="280" y="99" fill="#c9acd9" font-family="Arial" font-size="9">CONTESTS</text><text x="280" y="121" fill="#fff" font-family="Arial" font-size="20" font-weight="700">036</text>
+<rect x="370" y="80" width="91" height="53" rx="5" fill="#2e1f40" stroke="#775399"/><text x="382" y="99" fill="#c9acd9" font-family="Arial" font-size="9">RANK</text><text x="382" y="121" fill="#fff" font-family="Arial" font-size="20" font-weight="700">#024</text>
+<g fill="#8e68ab"><rect x="164" y="148" width="40" height="8"/><rect x="210" y="148" width="67" height="8"/><rect x="283" y="148" width="44" height="8"/><rect x="333" y="148" width="70" height="8"/></g>
+<g fill="#cda7ef"><rect x="164" y="166" width="6" height="29"/><rect x="176" y="157" width="6" height="38"/><rect x="188" y="174" width="6" height="21"/><rect x="200" y="163" width="6" height="32"/><rect x="212" y="151" width="6" height="44"/><rect x="224" y="168" width="6" height="27"/><rect x="236" y="157" width="6" height="38"/><rect x="248" y="162" width="6" height="33"/></g>
+<path d="M295 183L315 169L335 178L355 153L375 166L395 145" fill="none" stroke="#e6cdf8" stroke-width="2"/>
+<g fill="#d7b5ef"><rect x="74" y="31" width="8" height="8"/><rect x="102" y="63" width="5" height="5"/><rect x="520" y="37" width="7" height="7"/><rect x="548" y="80" width="5" height="5"/></g>
+</svg>
