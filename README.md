@@ -44,7 +44,7 @@ My work spans product concept, UX, implementation, data workflows, AI capabiliti
 ### CareerOS
 **Career planning and personal progress tracker**
 
-A product focused on helping students and professionals organize goals, roadmaps, projects, applications, and skill development. You confirmed that its source is in a separate public repository. I have not linked it yet because the exact repository URL did not appear in the repositories accessible to this GitHub connection.
+A product focused on helping students and professionals organize goals, roadmaps, projects, applications, and skill development.
 
 ### ApplyQ
 **Job discovery and quick-apply experience for college students**
@@ -92,8 +92,6 @@ GitHub · Docker · Testing · Documentation · Cross-functional coordination
 ## Let's connect
 
 I'm open to conversations about **Product Management, Product Analyst, Product Operations, Project Coordinator, and Associate Product Manager** opportunities in the UAE.
-
-You can reach me through my LinkedIn profile or GitHub. Add a direct LinkedIn URL and professional email here before sharing the profile with recruiters.
 
 ---
 
