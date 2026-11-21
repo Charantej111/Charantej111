@@ -118,8 +118,20 @@ I enjoy connecting the dots between **what users need, what makes business sense
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Charantej111&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=d1d5db&rank_icon=github" alt="Charan's GitHub statistics" />
+<table>
+<tr>
+<td align="center" width="230">
+<h1>166</h1>
+<strong>GitHub Contributions</strong><br/>
+<sub>Matching the contribution heatmap</sub>
+</td>
+<td align="center" width="330">
 <img height="165" src="https://streak-stats.demolab.com?user=Charantej111&hide_border=true&background=0D1117&ring=9CA3AF&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=9CA3AF&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=777F8C" alt="Charan's GitHub contribution streak" />
+</td>
+</tr>
+</table>
+
+<sub>Contribution count last checked against the GitHub activity heatmap. The heatmap remains the live source of truth.</sub>
 
 </div>
 
